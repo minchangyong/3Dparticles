@@ -1,6 +1,6 @@
-# qts-vue-os
+# 3Dparticles
 
-> 青团社官网 official site
+> 3Dparticles official site
 
 ### 技术栈
 ```
@@ -36,7 +36,6 @@ flex 布局教程  https://gold.xitu.io/post/589965c9128fe1006569cc9d
 |       |-- util.js                  // 工具库
 |   |-- pages                        // 各种页面组件
 |       |-- index                    // 首页
-|       |-- aboutUs                  // 关于我们
 |   |-- router                       // 页面路由配置
 |   |-- app.vue                      // 页面入口文件
 |   |-- main.js                      // 程序入口文件，加载各种公共组件
@@ -55,6 +54,4 @@ https://ojlf2aayk.qnssl.com/company/logos/1514951908173/app.png
 公众号关注
 https://ojlf2aayk.qnssl.com/company/logos/1514951908173/wechat.png
 
-公司icon
-https://ojlf2aayk.qnssl.com/company/logos/1514951908173/logo.png# 3Dparticles
 # 3Dparticles
